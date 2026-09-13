@@ -111,13 +111,13 @@ Bus-Booking-System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Protocol-Wizard/wayfarer.git
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd your-repository-name
+cd wayfarer
 ```
 
 ### 3. Run the Python program
