@@ -363,10 +363,10 @@ This project was developed collaboratively as a team for the Computational Probl
 
 > **Team Members:**
 >
-> * Logicweaver715 (https://github.com/Logicweaver715)
-> * Kayab6 (https://github.com/Kayab6)
-> * Kage-no-Yume (https://github.com/Kage-no-Yume)
-> * Protocol-Wizard (https://github.com/Protocol-Wizard)
+> * [Logicweaver715](https://github.com/Logicweaver715)
+> * [Kayab6](https://github.com/Kayab6)
+> * [Kage-no-Yume](https://github.com/Kage-no-Yume)
+> * [Protocol-Wizard](https://github.com/Protocol-Wizard)
 
 ---
 
